@@ -9,6 +9,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cosmic777-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cosmic777)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-1936521-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1936521)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--thakur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-thakur-aa98702a7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshkthakur.com.np-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://rupeshkthakur.com.np/)
 
 </div>
 
