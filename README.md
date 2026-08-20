@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=IAZENT&fontSize=40&fontColor=0d1117&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=whoami+%3E+Cosmic+%2F+IAZENT;Ethical+Hacker+%7C+Security+Researcher;Web+Pentesting+%7C+Binary+Exploitation+%7C+Malware+RE;CTF+Player+%7C+TryHackMe+%7C+HackTheBox" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6600&center=true&vCenter=true&width=700&lines=whoami+%3E+Cosmic+%2F+IAZENT;Ethical+Hacker+%7C+Security+Researcher;Web+Pentesting+%7C+Binary+Exploitation+%7C+Malware+RE;CTF+Player+%7C+TryHackMe+%7C+HackTheBox" alt="Typing SVG" />
 
 <br/>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Cosmic777-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cosmic777)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-1936521-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1936521)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupesh--thakur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-thakur-aa98702a7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshkthakur.com.np-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://rupeshkthakur.com.np/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rupeshkthakur.com.np-E8E8E8?style=for-the-badge&logo=firefox&logoColor=black)](https://rupeshkthakur.com.np/)
 
 </div>
 
@@ -17,13 +17,8 @@
 
 <div align="center">
 
-```bash
-╔══════════════════════════════════════════════════════╗
-║  BSc Ethical Hacking & Cybersecurity                 ║
-║  Coventry University                                 ║
-║  Building secure systems. Breaking insecure ones.    ║
-╚══════════════════════════════════════════════════════╝
-```
+*BSc Ethical Hacking & Cybersecurity · Coventry University*
+> Building secure systems. Breaking insecure ones.
 
 </div>
 
