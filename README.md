@@ -54,11 +54,12 @@
 <!-- PROJECTS:START -->
 | Repo | Description | Lang |
 |:----:|:------------|:----:|
-| [**HuntX**](https://github.com/IAZENT/HuntX) | Bug bounty platform - 45+ scanners, 70+ tools, MCP-native AI agent integration | `Python` |
-| [**GUI-RAT**](https://github.com/IAZENT/GUI-RAT) | Remote Access Trojan with GUI-based C2 server | `Python` |
+| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | Free, AI-tailored, ATS-safe CV and cover letter builder for every country's format | `TypeScript` |
+| [**HuntX**](https://github.com/IAZENT/HuntX) | The bug bounty platform for AI agents, 45+ scanners, 70+ tools, MCP-native integration with Coding agents like claude, opencode, cursor etc. | `Python` |
+| [**roomexptracker**](https://github.com/IAZENT/roomexptracker) | Room Expense Tracker (Shared-Room Bill Splitter) | `TypeScript` |
 | [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard | `Python` |
-| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | AI-tailored, ATS-safe CV builder - country-format aware | `TypeScript` |
-| [**Gui_Wifi_Hacking**](https://github.com/IAZENT/Gui_Wifi_Hacking) | WiFi security testing tool - GUI-based, Python tkinter | `Python` |
+| [**claude-code-optimizer**](https://github.com/IAZENT/claude-code-optimizer) | The ultimate, zero-cost token economy and workflow stack for Claude Code. | `Shell` |
+| [**agentorchestr**](https://github.com/IAZENT/agentorchestr) | Agent Orchestrator | `Python` |
 <!-- PROJECTS:END -->
 
 </div>
