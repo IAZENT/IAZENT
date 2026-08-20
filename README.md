@@ -56,7 +56,7 @@ Currently: **BSc Ethical Hacking & Cybersecurity** @ Coventry (via Softwarica, K
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IAZENT&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IAZENT&theme=chartreuse-dark&hide_border=true&background=0d1117" />
 </p>
 
 ---
