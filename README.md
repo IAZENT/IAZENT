@@ -51,8 +51,8 @@ Currently: **BSc Ethical Hacking & Cybersecurity** @ Coventry (via Softwarica, K
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IAZENT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IAZENT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats-five-ashen-66.vercel.app/api?username=IAZENT&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats-five-ashen-66.vercel.app/api/top-langs/?username=IAZENT&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" />
 </p>
 
 <p align="center">
