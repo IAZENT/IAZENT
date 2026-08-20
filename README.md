@@ -51,13 +51,15 @@
 
 <div align="center">
 
-| 🛠️ Repo | 📄 What it does |
-|:-------:|:----------------|
-| [**HuntX**](https://github.com/IAZENT/HuntX) | Bug bounty platform — 45+ scanners, 70+ tools, MCP-native AI agent integration |
-| [**GUI-RAT**](https://github.com/IAZENT/GUI-RAT) | Remote Access Trojan with GUI-based C2 server |
-| [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard |
-| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | AI-tailored, ATS-safe CV builder — country-format aware |
-| [**Gui_Wifi_Hacking**](https://github.com/IAZENT/Gui_Wifi_Hacking) | WiFi security testing tool — GUI-based, Python tkinter |
+<!-- PROJECTS:START -->
+| Repo | Description | Lang |
+|:----:|:------------|:----:|
+| [**HuntX**](https://github.com/IAZENT/HuntX) | Bug bounty platform - 45+ scanners, 70+ tools, MCP-native AI agent integration | `Python` |
+| [**GUI-RAT**](https://github.com/IAZENT/GUI-RAT) | Remote Access Trojan with GUI-based C2 server | `Python` |
+| [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard | `Python` |
+| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | AI-tailored, ATS-safe CV builder - country-format aware | `TypeScript` |
+| [**Gui_Wifi_Hacking**](https://github.com/IAZENT/Gui_Wifi_Hacking) | WiFi security testing tool - GUI-based, Python tkinter | `Python` |
+<!-- PROJECTS:END -->
 
 </div>
 
