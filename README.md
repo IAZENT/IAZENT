@@ -50,12 +50,12 @@
 <!-- PROJECTS:START -->
 | Repo | Description | Lang |
 |:----:|:------------|:----:|
-| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | Free, AI-tailored, ATS-safe CV and cover letter builder for every country's format | `TypeScript` |
-| [**HuntX**](https://github.com/IAZENT/HuntX) | The bug bounty platform for AI agents, 45+ scanners, 70+ tools, MCP-native integration with Coding agents like claude, opencode, cursor etc. | `Python` |
-| [**roomexptracker**](https://github.com/IAZENT/roomexptracker) | Room Expense Tracker (Shared-Room Bill Splitter) | `TypeScript` |
 | [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard | `Python` |
+| [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | Free, AI-tailored, ATS-safe CV and cover letter builder for every country's format | `TypeScript` |
+| [**roomexptracker**](https://github.com/IAZENT/roomexptracker) | Room Expense Tracker (Shared-Room Bill Splitter) | `TypeScript` |
 | [**claude-code-optimizer**](https://github.com/IAZENT/claude-code-optimizer) | The ultimate, zero-cost token economy and workflow stack for Claude Code. | `Shell` |
 | [**agentorchestr**](https://github.com/IAZENT/agentorchestr) | Agent Orchestrator | `Python` |
+| [**docseal**](https://github.com/IAZENT/docseal) | 🛡️Secure Document Signing & Verification System | `Python` |
 <!-- PROJECTS:END -->
 
 </div>
