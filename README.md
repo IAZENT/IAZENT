@@ -50,12 +50,12 @@
 <!-- PROJECTS:START -->
 | Repo | Description | Lang |
 |:----:|:------------|:----:|
+| [**security-engineering-portfolio**](https://github.com/IAZENT/security-engineering-portfolio) | A practical cybersecurity portfolio featuring penetration testing, security research, technical walkthroughs, projects and professional documentation. | `Python` |
 | [**schooldemo**](https://github.com/IAZENT/schooldemo) |  | `TypeScript` |
 | [**roomexptracker**](https://github.com/IAZENT/roomexptracker) | Room Expense Tracker (Shared-Room Bill Splitter) | `TypeScript` |
 | [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard | `Python` |
 | [**OrbitCV**](https://github.com/IAZENT/OrbitCV) | Free, AI-tailored, ATS-safe CV and cover letter builder for every country's format | `TypeScript` |
 | [**claude-code-optimizer**](https://github.com/IAZENT/claude-code-optimizer) | The ultimate, zero-cost token economy and workflow stack for Claude Code. | `Shell` |
-| [**agentorchestr**](https://github.com/IAZENT/agentorchestr) | Agent Orchestrator | `Python` |
 <!-- PROJECTS:END -->
 
 </div>
