@@ -50,8 +50,8 @@
 <!-- PROJECTS:START -->
 | Repo | Description | Lang |
 |:----:|:------------|:----:|
-| [**crawlbot**](https://github.com/IAZENT/crawlbot) |  | `Rust` |
 | [**security-engineering-portfolio**](https://github.com/IAZENT/security-engineering-portfolio) | A practical cybersecurity portfolio featuring penetration testing, security research, technical walkthroughs, projects and professional documentation. | `Python` |
+| [**crawlbot**](https://github.com/IAZENT/crawlbot) |  | `Rust` |
 | [**schooldemo**](https://github.com/IAZENT/schooldemo) |  | `TypeScript` |
 | [**roomexptracker**](https://github.com/IAZENT/roomexptracker) | Room Expense Tracker (Shared-Room Bill Splitter) | `TypeScript` |
 | [**ahrid**](https://github.com/IAZENT/ahrid) | Adaptive Human Risk Intelligence Dashboard | `Python` |
